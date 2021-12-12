@@ -19,4 +19,5 @@ Habilidades:  REACT / JS / NODE JS / EXPRESS / POSTGRESQL / SEQUELIZE
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamad8&show_icons=true)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anamad8)
 
-[GitHub Views] (http://www.komarev.com/ghpvd/?username=anamad8&color=2658BF)
+
+![Profile views](https://gpvc.arturio.dev/anamad8) 
