@@ -1,5 +1,5 @@
 
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://postimg.cc/RWg43WJR)
 
 ### Hola 👋, Mi nombre es Anabel
 
