@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**anamad8/anamad8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hola 👋, Mi nombre es Anabel
+
+Habilidades:  REACT / JS / NODE JS / EXPRESS / POSTGRESQL / SEQUELIZE
+- 🌱 Estoy aprendiendo React Native, NodeJS, Express, PostgreSQL y ReactJS 
+- 📫 Cómo contactarme: stellam_anabel@hotmail.com 
+
+
+
+## 📬 Get in touch
+- LinkedIn: [linkedin.com/in/anamad8](https://www.linkedin.com/in/anabel-amad-/)
+- Instagram: [instagram.com/anamad8](https://www.instagram.com/anabel_amad/)
+- Facebook: [facebook.com/anamad8](https://www.facebook.com/stellamaris.amad)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamad8)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamad8&show_icons=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anamad8)
+
+[GitHub Views] (http://www.komarev.com/ghpvd/?username=anamad8&color=2658BF)
