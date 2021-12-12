@@ -1,5 +1,4 @@
-
-![head.png](https://postimg.cc/RWg43WJR)
+[![AGit.png](https://i.postimg.cc/8CS50W1q/AGit.png)](https://postimg.cc/RWg43WJR)
 
 ### Hola 👋, Mi nombre es Anabel
 
