@@ -1,5 +1,5 @@
 
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://raw.githubusercontent.com/anamad8/FigureBed/master/img/readme-top.png)
 
 ### Hola 👋, Mi nombre es Anabel
 
@@ -26,16 +26,8 @@ const charles = {
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anamad8)
 
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=anamad8=contribs,prs&count_private=true&show_icons=true)
+![Anabel github stats](https://github-readme-stats.vercel.app/api?username=anamad8=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/anamad8">
-  <img src="https://img.shields.io/github/followers/anamad8">
-</a>
-<a href="https://github.com/anamad8">
-   <img src="https://komarev.com/ghpvc/?username=anamad8">
-</a>
-
-![bottom.png](https://raw.githubusercontent.com/anamad8/FigureBed/master/img/readme-bottom.png)
 
 ---
 
