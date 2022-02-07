@@ -29,4 +29,4 @@ const charles = {
 
 ![Profile views](https://gpvc.arturio.dev/anamad8) 
 
-⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
+
